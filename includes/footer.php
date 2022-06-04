@@ -1,33 +1,39 @@
-<!-- Instruktion til webbrowser om at vi kører HTML5 -->
-<!DOCTYPE html>
 
-<!-- html starter og slutter hele dokumentet / lang=da: Fortæller siden er på dansk -->
-<html lang="da">
+<footer>
 
-<!-- I <head> har man opsætning - det ser brugeren ikke, men det fortæller noget om siden -->
-<head>
-    <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
-    <meta charset="utf-8">
+    <div class="container-fluid navbar-light bg-header_footer">
 
-    <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
+        <div class="row mt-5 pt-5 pb-4">
+            <div class="col-12 col-md-4 text-center">
+                <p class="overskrift"> CHOCOLATE CLUB </p>
+                <br>
+                <p class="tekst"> Silkegade 7 <br> 1113 København <br> (strøget) <br><br> Tlf. 1717 7171 <br> kontakt@chocolateclub.dk <br> CVR. 17177171 </p>
+            </div>
+            <div class="col-12 col-md-4 mt-4 mb-4 d-flex justify-content-center">
+                <img src="image/ChocolateClub_Logo_Original_Transparent.png" alt="Chocolate club logo" height=180px" width="200px">
+            </div>
+            <div class="col-12 col-md-4 text-center">
+                <p class="overskrift"> ÅBNINGSTIDER </p>
+                <br>
+                <p class="tekst"> Mandag: 10.00 - 16.00 <br> Tirsdag: lukket <br> Onsdag: lukket <br> Torsdag lukket <br> Fredag: 10.00 - 16.00 <br> Lørdag: 10.00 - 18.00 <br> Søndag: lukket </p>
+            </div>
+        </div>
 
-    <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
-    <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
-    <meta name="copyright" content="Information om copyright">
+        <nav class="row gx-3">
+            <div class="col-6 mb-3 d-flex justify-content-end">
+                <img src="image/Instagram_Logo.png" alt="Instagram logo" height="40px" width="40px">
+            </div>
+            <div class="col-6 mb-3 d-flex justify-content-start">
+                <img src="image/Facebook_Logo.png" alt="Facebook logo" height="40px" width="40px">
+            </div>
+        </nav>
 
-    <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
-    <link href="css/styles.css" rel="stylesheet" type="text/css">
+        <div class="row">
+            <div class="col-12 mt-1 mb-5 d-flex justify-content-center">
+                <img src="image/5stars.png" alt="6 stjerner" height="20px" width="200px">
+            </div>
+        </div>
 
-    <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
+    </div>
 
-<!-- i <body> har man alt indhold på siden som brugeren kan se -->
-<body>
-
-<!-- Her skal sidens indhold ligge -->
-
-</body>
-</html>
+</footer>
