@@ -1,3 +1,7 @@
+
+$header_footer: #E5D6CF;
+$baggrund: #F8F2EF;
+
 * {
 	box-sizing: border-box;
 }
@@ -31,3 +35,24 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+.logo{
+	top: 3px;
+	left: 30px;
+	z-index: 10;
+}
+
+.overskrift{
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: x-large;
+}
+
+.tekst{
+	font-family: 'Gentium Plus', serif;
+}
+
+.pris{
+	font-family: 'Gentium Plus', serif;
+	font-weight: bold;
+}
+
