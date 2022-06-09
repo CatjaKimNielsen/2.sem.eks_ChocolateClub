@@ -46,7 +46,7 @@
                 <br>
                 <p class="tekst"> Eksklusive chokolader i bedste kvalitet, men helt uden noget twist. Vi kan producere chokolader lige efter din smagsløg, så bestil tid allerede nu! </p>
                 <br>
-                <button type="button" class="btn btn-dark active tekst" href="..."> Book tid </button>
+                <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Book tid </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
                 <img src="image/Chokoladekugler.jpg" alt="Chokoladekugle">
@@ -77,7 +77,7 @@
                 <br>
                 <p class="tekst"> Er du også på jagt efter chokolade derhjemme, men kan du ikke finde noget? Så shop dem NU og få dem leveret direkte til din hoveddøren. </p>
                 <br>
-                <button type="button" class="btn btn-dark active tekst" href="..."> Shop nu </button>
+                <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Shop nu </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
                 <img src="image/Chokoladekugler.jpg" alt="Chokoladekugle">
