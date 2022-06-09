@@ -45,13 +45,13 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-6 col-md-4 col-xl-3 mb-5">
+            <div class="col-6 col-md-4 col-xl-3 mb-5 justify-content-center">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
                 <h2 class="overskrift text-center"> Mørk chokoladefrø </h2>
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -59,7 +59,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -67,7 +67,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -75,7 +75,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -83,7 +83,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -91,7 +91,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -99,7 +99,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -107,7 +107,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -115,7 +115,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -123,7 +123,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -131,7 +131,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
                 <img src="image/Chokolade.jpg" alt="Lækker chokolade">
@@ -139,7 +139,7 @@
                 <p class="tekst text-center"> med flydende saltkaramel </p>
                 <br>
                 <p class="pris text-center "> 35,00 kr. </p>
-                <button type="button" class="btn btn-sm btn-dark active tekst" href="..."> Læs mere </button>
+                <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
         </div>
     </div>
