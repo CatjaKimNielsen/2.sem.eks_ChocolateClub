@@ -1,33 +1,112 @@
-<!-- Instruktion til webbrowser om at vi kører HTML5 -->
 <!DOCTYPE html>
-
-<!-- html starter og slutter hele dokumentet / lang=da: Fortæller siden er på dansk -->
 <html lang="da">
 
-<!-- I <head> har man opsætning - det ser brugeren ikke, men det fortæller noget om siden -->
 <head>
-    <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
+
     <meta charset="utf-8">
 
-    <!-- Titel som ses oppe i browserens tab mv. -->
-    <title>Sigende titel</title>
-
-    <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
+    <title> Om os </title>
+    <meta name="description" content="...">
     <meta name="robots" content="All">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Sikrer man kan benytte CSS ved at tilkoble en CSS fil -->
+    <meta property="og:title" content="Chocolate Club | Om os">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="...">
+    <meta property="og:image" content="...">
+    <meta property="og:description" content="...">
+    <meta property="og:locale" content="da.DK">
+
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
 
-    <!-- Sikrer den vises korrekt på mobil, tablet mv. ved at tage ift. skærmstørrelse - bliver brugt til responsive websider -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style> body{background-color: rgba(248,242,239,0.89)} </style>
+    <style> a:link{color: black; text-decoration: none;} a:hover{text-decoration: underline} </style>
+
 </head>
 
-<!-- i <body> har man alt indhold på siden som brugeren kan se -->
+
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@0;1&family=Pathway+Gothic+One&display=swap" rel="stylesheet">
+
+
 <body>
 
-<!-- Her skal sidens indhold ligge -->
+    <?php include "includes/header.php"; ?>
+
+
+    <div class="container text-center mt-5 ps-5 pe-5">
+        <h1 class="overskrift"> VORES FÆLLES KÆRLIGHED </h1>
+        <br>
+        <p class="tekst"> Måske ser vi forskellige ud og måske har vi ikke samme alder, men det VI har tilfældes er vores kærlighed til chokolade. </p>
+    </div>
+
+
+    <div class="container mb-5">
+        <div class="row mb-5">
+            <div class="col-12 col-sm-6 col-xl-4">
+                <br><br>
+                <h2 class="overskrift"> TOBIAS TRADS </h2>
+                <br>
+                <img src="image/TobiasTrads.jpg" alt="Chocolatier Tobias">
+                <p class="p-3 tekst"> Tobias laver alverdens chokolader til børn og barnlige sjæle. Så hvis du skal forkæle dine børn med noget ekstra god chokolade eller kender en som har en liiidt barnlig sjæl, så er Tobias' chokolader de helt rigtige. </p>
+                <div>
+                    <p> <a class="btn btn-sm bg-header_footer shadow w-100 tekst" data-bs-toggle="collapse" href="#collapseTobias" role="button" aria-expanded="false" aria-controls="collapseTobias"> Se hans arbejde </a> </p>
+                    <div class="collapse" id="collapseTobias">
+                        <div class="card card-body">
+                            <img src="image/TobiasTrads.jpg" alt="Chokolade">
+                            <br>
+                            <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="SmåtMenGodt.php"> Se mere </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-xl-4">
+                <br><br>
+                <h2 class="overskrift"> AMALIE MIKKELSEN </h2>
+                <br>
+                <img src="image/Amalie.jpg" alt="Chocolatier Amalie">
+                <p class="p-3 tekst"> Amalie har øje for eksklusivitet og den bedste kvalitet - derfor producere hun kun den bedste eksklusive kvalitetschokolade. Amalie har også for øje, at der også findes kræsne chokoladeelskere og det kommer til udtryk i hendes chokoladearbejde. </p>
+                <div>
+                    <p> <a class="btn btn-sm bg-header_footer shadow w-100 tekst" data-bs-toggle="collapse" href="#collapseAmalie" role="button" aria-expanded="false" aria-controls="collapseAmalie"> Se hendes arbejde </a> </p>
+                    <div class="collapse" id="collapseAmalie">
+                        <div class="card card-body">
+                            <img src="image/Amalie.jpg" alt="Chokolade">
+                            <br>
+                            <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="HeltUdenTwist.php"> Se mere </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-6 col-xl-4">
+                <br><br>
+                <h2 class="overskrift"> FREDERIK WOLMAR </h2>
+                <br>
+                <img src="image/Frederik.jpg" alt="Chocolatier Frederik">
+                <p class="p-3 tekst"> Frederik har speciale i, at producere lækre chokolader til alle typer begivenheder. Det kan fx være dit bryllup, en 50´ års fødselsdag, sølvbyllup, en børnefødselsdag eller noget helt femte. </p>
+                <div>
+                    <p> <a class="btn btn-sm bg-header_footer shadow w-100 tekst" data-bs-toggle="collapse" href="#collapseFrederik" role="button" aria-expanded="false" aria-controls="collapseFrederik"> Se hans arbejde </a> </p>
+                    <div class="collapse" id="collapseFrederik">
+                        <div class="card card-body">
+                            <img src="image/Frederik.jpg" alt="Chokolade">
+                            <br>
+                            <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="BetydningsfuldeMinder.php"> Se mere </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <?php include "includes/footer.php"; ?>
+
+
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
 
 </body>
+
+
 </html>
