@@ -6,9 +6,9 @@
     <meta charset="utf-8">
 
     <title> Betydningsfulde minder </title>
-    <meta name="description" content="...">
+    <meta name="description" content="Chokolade kan være med til at skabe rigtig gode minder. Vi kan lave chokolader til alle begivenheder, arrangementer, til fest, fødselsdag og bryllup.">
     <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
+    <meta name="author" content="Catja Kim Nielsen & Susana Buch">
     <meta name="copyright" content="Information om copyright">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +16,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="...">
     <meta property="og:image" content="...">
-    <meta property="og:description" content="...">
+    <meta property="og:description" content="Chokolade kan være med til at skabe rigtig gode minder. Vi kan lave chokolader til alle begivenheder, arrangementer, til fest, fødselsdag og bryllup.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -36,10 +36,10 @@
     <?php include "includes/header.php"; ?>
 
 
-    <div class="container mt-5">
+    <section class="container mt-5">
         <div class="row mb-5">
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Chokolade_med_Kokos.png" alt="Lys chokolade med kokos">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-2 mb-2 pt-4 text-center">
                 <h1 class="overskrift"> Betydningsfulde minder </h1>
@@ -49,28 +49,28 @@
                 <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Book tid </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Skildpadde_med_Mint.png" alt="Chokoladeskildpadde med mint">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader emd fyld">
+                <img src="image/Marcipan_med_Appelsin.png" alt="Hvid chokolader med appelsin">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Nougat_med_Hasselnød.png" alt="Lys chokolade med nougat og hel hasselnød">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Marcipan_med_Appelsin.png" alt="Hvid chokolader med appelsin">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader emd fyld">
+                <img src="image/Chokolade_med_Kokos.png" alt="Lys chokolade med kokos">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Skildpadde_med_Mint.png" alt="Chokoladeskildpadde med mint">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Nougat_med_Hasselnød.png" alt="Lys chokolade med nougat og hel hasselnød">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Nougat_med_Hasselnød.png" alt="Lys chokolade med nougat og hel hasselnød">
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-2 mb-2 pt-4 text-center">
                 <h2 class="overskrift"> Click & Collect </h2>
@@ -80,10 +80,10 @@
                 <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Shop nu </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
-                <img src="image/FyldteChokolader.jpg" alt="Chokolader med fyld">
+                <img src="image/Marcipan_med_Appelsin.png" alt="Hvid chokolader med appelsin">
             </div>
         </div>
-    </div>
+    </section>
 
 
     <?php include "includes/footer.php"; ?>
