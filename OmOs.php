@@ -6,9 +6,9 @@
     <meta charset="utf-8">
 
     <title> Om os </title>
-    <meta name="description" content="...">
+    <meta name="description" content="Vores fælles kærlighed er chokolade - derfor er vi alle 3 uddannet chocolatiers. Vi er Tobias Trads med speciale i børn og barnlige sjæle, Amalie Mikkelsen med speciale i det eksklusive og kvalitet til kræsne og Frederik Wolmar med speciale i chokolade til alle begivenheder.">
     <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
+    <meta name="author" content="Catja Kim Nielsen & Susana Buch">
     <meta name="copyright" content="Information om copyright">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +16,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="...">
     <meta property="og:image" content="...">
-    <meta property="og:description" content="...">
+    <meta property="og:description" content="Vores fælles kærlighed er chokolade - derfor er vi alle 3 uddannet chocolatiers. Vi er Tobias Trads med speciale i børn og barnlige sjæle, Amalie Mikkelsen med speciale i det eksklusive og kvalitet til kræsne og Frederik Wolmar med speciale i chokolade til alle begivenheder.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -36,14 +36,14 @@
     <?php include "includes/header.php"; ?>
 
 
-    <div class="container text-center mt-5 ps-5 pe-5">
-        <h1 class="overskrift"> VORES FÆLLES KÆRLIGHED </h1>
+    <section class="container text-center mt-5 ps-5 pe-5">
+        <h1 class="overskrift"> 3 CHOCOLATIERS MED ÉN FÆLLES KÆRLIGHED </h1>
         <br>
-        <p class="tekst"> Måske ser vi forskellige ud og måske har vi ikke samme alder, men det VI har tilfældes er vores kærlighed til chokolade. </p>
-    </div>
+        <p class="tekst"> Måske ser vi forskellige ud og måske har vi ikke samme alder, men det VI har tilfældes er vores kærlighed til chokolade. Læs mere om os herunder.</p>
+    </section>
 
 
-    <div class="container mb-5">
+    <section class="container mb-5">
         <div class="row mb-5">
             <div class="col-12 col-sm-6 col-xl-4">
                 <br><br>
@@ -55,7 +55,7 @@
                     <p> <a class="btn btn-sm bg-header_footer shadow w-100 tekst" data-bs-toggle="collapse" href="#collapseTobias" role="button" aria-expanded="false" aria-controls="collapseTobias"> Se hans arbejde </a> </p>
                     <div class="collapse" id="collapseTobias">
                         <div class="card card-body">
-                            <img src="image/TobiasTrads.jpg" alt="Chokolade">
+                            <img src="image/Mælkechokolade.png" alt="Frø af mælkechokolade">
                             <br>
                             <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="SmåtMenGodt.php"> Se mere </a>
                         </div>
@@ -72,7 +72,7 @@
                     <p> <a class="btn btn-sm bg-header_footer shadow w-100 tekst" data-bs-toggle="collapse" href="#collapseAmalie" role="button" aria-expanded="false" aria-controls="collapseAmalie"> Se hendes arbejde </a> </p>
                     <div class="collapse" id="collapseAmalie">
                         <div class="card card-body">
-                            <img src="image/Amalie.jpg" alt="Chokolade">
+                            <img src="image/MørkChokolade.png" alt="Ren mørk chokolade">
                             <br>
                             <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="HeltUdenTwist.php"> Se mere </a>
                         </div>
@@ -89,7 +89,7 @@
                     <p> <a class="btn btn-sm bg-header_footer shadow w-100 tekst" data-bs-toggle="collapse" href="#collapseFrederik" role="button" aria-expanded="false" aria-controls="collapseFrederik"> Se hans arbejde </a> </p>
                     <div class="collapse" id="collapseFrederik">
                         <div class="card card-body">
-                            <img src="image/Frederik.jpg" alt="Chokolade">
+                            <img src="image/Chokolade_med_Kokos.png" alt="Lys chokolade med kokos">
                             <br>
                             <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="BetydningsfuldeMinder.php"> Se mere </a>
                         </div>
@@ -97,7 +97,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 
 
     <?php include "includes/footer.php"; ?>
