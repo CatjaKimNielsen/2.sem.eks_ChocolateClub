@@ -7,7 +7,7 @@
 
     <title> Fejl 404 </title>
     <meta name="description" content="Chocolate Club Fejl 404">
-    <meta name="robots" content="None">
+    <meta name="robots" content="All">
     <meta name="author" content="Catja Kim Nielsen & Susana Buch">
     <meta name="copyright" content="Information om copyright">
     <meta name="viewport" content="width=device-width, initial-scale=1">

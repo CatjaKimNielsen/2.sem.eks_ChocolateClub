@@ -6,7 +6,8 @@
     <meta charset="utf-8">
 
     <title> Chocolate Club </title>
-    <meta name="description" content="Hos Chocolate Club laver vi alt i konfekt, ren chokolade og fyldte chokolader. De kan købes i vores butik, i vores click & collect eller bestilles efter egne ønsker.">
+    <meta name="description" content="Hos Chocolate Club laver vi alt i konfekt, ren chokolade og fyldte chokolader. De kan købes i
+    vores butik, i vores click & collect eller bestilles efter egne ønsker.">
     <meta name="robots" content="All">
     <meta name="author" content="Catja Kim Nielsen & Susana Buch">
     <meta name="copyright" content="Information om copyright">
@@ -16,7 +17,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/index.php">
     <meta property="og:image" content="http://www.catjakimnielsen.dk/Eksamener/2.semester/image/ChocolateClub_Slider_3chokolader.png">
-    <meta property="og:description" content="Hos Chocolate Club laver vi alt i konfekt, ren chokolade og fyldte chokolader. De kan købes i vores butik, i vores click & collect eller bestilles efter egne ønsker.">
+    <meta property="og:description" content="Hos Chocolate Club laver vi alt i konfekt, ren chokolade og fyldte chokolader.
+    De kan købes i vores butik, i vores click & collect eller bestilles efter egne ønsker.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">

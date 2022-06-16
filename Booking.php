@@ -6,7 +6,8 @@
     <meta charset="utf-8">
 
     <title> Booking </title>
-    <meta name="description" content="Hos Chokolate Club laver vi personlig chokolade. Book en tid til møde i butikken og så finder vi sammen frem til hvordan dine ønsker skal formes i chokolade.">
+    <meta name="description" content="Hos Chokolate Club laver vi personlig chokolade. Book en tid til møde i butikken og så
+    finder vi sammen frem til hvordan dine ønsker skal formes i chokolade.">
     <meta name="robots" content="All">
     <meta name="author" content="Catja Kim Nielsen & Susana Buch">
     <meta name="copyright" content="Information om copyright">
@@ -16,7 +17,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/Booking.php">
     <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/ChocolateClub_Logo_Original_Transparent.png">
-    <meta property="og:description" content="Hos Chokolate Club laver vi personlig chokolade. Book en tid til møde i butikken og så finder vi sammen frem til hvordan dine ønsker skal formes i chokolade.">
+    <meta property="og:description" content="Hos Chokolate Club laver vi personlig chokolade. Book en tid til møde i butikken
+    og så finder vi sammen frem til hvordan dine ønsker skal formes i chokolade.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">

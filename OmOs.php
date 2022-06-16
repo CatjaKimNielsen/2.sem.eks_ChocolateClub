@@ -109,7 +109,7 @@
             blomster gror i klynger direkte på stammen eller på ældre grene. De er små, 1-2 cm i diameter. Frugten, kaldet en kakaobælg,
             er ægformet, 15-30 cm lang og 8-10 cm bred og modner fra gul til orange. Den vejer omkring 500 gram, når den er moden. <br><br>
             Bønnerne som plukker og ordner kakao-frugten arbejder på chokoladefarmen Valcilene dos Santos. Vi har denne farm som samarbejdspartner
-            da arbejdsforholdene er gode og alle medarbejder får løn. <br>Læs mere om deres arbejde på www.valcilenedossantos.com</p>
+            da arbejdsforholdene er gode og alle medarbejder får løn. <br>Læs mere om deres arbejde på <a>www.valcilenedossantos.com</a></p>
     </section>
 
 

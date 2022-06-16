@@ -6,7 +6,8 @@
     <meta charset="utf-8">
 
     <title> Click & Collect </title>
-    <meta name="description" content="Chocolate Club byder på en shop med lækre og fristende chokolade. Det kan bruges til selvforkælelse, begivenheder, til dessert eller lige hvad ønsker.">
+    <meta name="description" content="Chocolate Club byder på en shop med lækre og fristende chokolade. Det kan bruges til
+    selvforkælelse, begivenheder, til dessert eller lige hvad ønsker.">
     <meta name="robots" content="All">
     <meta name="author" content="Catja Kim Nielsen & Susana Buch">
     <meta name="copyright" content="Information om copyright">
@@ -16,7 +17,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/Click&Collect.php">
     <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/Produkt_%C3%86ske_6stk.png">
-    <meta property="og:description" content="Chocolate Club byder på en shop med lækre og fristende chokolade. Det kan bruges til selvforkælelse, begivenheder, til dessert eller lige hvad ønsker.">
+    <meta property="og:description" content="Chocolate Club byder på en shop med lækre og fristende chokolade. Det kan bruges
+    til selvforkælelse, begivenheder, til dessert eller lige hvad ønsker.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">

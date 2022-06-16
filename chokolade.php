@@ -6,7 +6,8 @@
     <meta charset="utf-8">
 
     <title> Vores chokolade </title>
-    <meta name="description" content="Vores chokolade er ALTID produceret af den bedste kvalitet. Vi producere konfekt, fyldte chokolader og ren chokolade lige efter din smagsløg.">
+    <meta name="description" content="Vores chokolade er ALTID produceret af den bedste kvalitet. Vi producere konfekt, fyldte
+    chokolader og ren chokolade lige efter din smagsløg.">
     <meta name="robots" content="All">
     <meta name="author" content="Catja Kim Nielsen & Susana Buch">
     <meta name="copyright" content="Information om copyright">
@@ -16,7 +17,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/chokolade.php">
     <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/4chokolader.png">
-    <meta property="og:description" content="Vores chokolade er ALTID produceret af den bedste kvalitet. Vi producere konfekt, fyldte chokolader og ren chokolade lige efter din smagsløg.">
+    <meta property="og:description" content="Vores chokolade er ALTID produceret af den bedste kvalitet. Vi producere konfekt,
+    fyldte chokolader og ren chokolade lige efter din smagsløg.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">

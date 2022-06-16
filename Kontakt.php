@@ -7,7 +7,8 @@
     <meta charset="utf-8">
 
     <title> Kontakt </title>
-    <meta name="description" content="Der er mange muligheder for at komme i kontakt med Chocolate Club. Vi har både en kontaktformular, et telefonnummer, en a-mail og du er også mere end velkommen til at besøge os på vores adresse.">
+    <meta name="description" content="Der er mange muligheder for at komme i kontakt med Chocolate Club. Vi har både en
+    kontaktformular, et telefonnummer, en a-mail og du er også mere end velkommen til at besøge os på vores adresse.">
     <meta name="robots" content="All">
     <meta name="author" content="Catja Kim Nielsen & Susane Buch">
     <meta name="copyright" content="Information om copyright">
@@ -17,7 +18,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/Kontakt.php">
     <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/ChocolateClub_Slider_5chokolader.png">
-    <meta property="og:description" content="Der er mange muligheder for at komme i kontakt med Chocolate Club. Vi har både en kontaktformular, et telefonnummer, en a-mail og du er også mere end velkommen til at besøge os på vores adresse.">
+    <meta property="og:description" content="Der er mange muligheder for at komme i kontakt med Chocolate Club. Vi har både en
+    kontaktformular, et telefonnummer, en a-mail og du er også mere end velkommen til at besøge os på vores adresse.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">

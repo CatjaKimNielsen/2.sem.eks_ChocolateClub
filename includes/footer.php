@@ -21,18 +21,18 @@
 
         <nav class="row gx-3">
             <div class="col-6 mb-3 d-flex justify-content-end">
-                <img src="image/Instagram_Logo.png" alt="Instagram logo" height="40px" width="40px">
+                <img src="image/Instagram_Logo.png" href="..." alt="Instagram logo" height="40px" width="40px">
             </div>
             <div class="col-6 mb-3 d-flex justify-content-start">
-                <img src="image/Facebook_Logo.png" alt="Facebook logo" height="40px" width="40px">
+                <img src="image/Facebook_Logo.png" href="..." alt="Facebook logo" height="40px" width="40px">
             </div>
         </nav>
 
-        <div class="row">
+        <nav class="row">
             <div class="col-12 mt-1 mb-5 d-flex justify-content-center">
-                <img src="image/5stars.png" alt="6 stjerner" height="20px" width="200px">
+                <img src="image/5stars.png" href="https://dk.trustpilot.com/" alt="6 stjerner" height="20px" width="200px">
             </div>
-        </div>
+        </nav>
 
     </div>
 
