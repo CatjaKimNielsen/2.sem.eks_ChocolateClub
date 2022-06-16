@@ -46,7 +46,7 @@
                 <br>
                 <p class="tekst"> Viste du at chokolade kan være med til at skabe nogle fantastiske minder? Vi kan producere chokolader lige efter dine ønsker, så book tid allerede nu! </p>
                 <br>
-                <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Book tid </a>
+                <a class="btn btn-sm bg-Frederik shadow w-50 tekst" href="HeltUdenTwist.php"> Book tid </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
                 <img src="image/Skildpadde_med_Mint.png" alt="Chokoladeskildpadde med mint">
@@ -77,7 +77,7 @@
                 <br>
                 <p class="tekst"> Er du lige pludselig gået hen og blevet lækkersulten efter chokolade? Så køb dem allerede nu og få dem leveret direkte til din hoveddøren. </p>
                 <br>
-                <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Shop nu </a>
+                <a class="btn btn-sm bg-Frederik shadow w-50 tekst" href="HeltUdenTwist.php"> Shop nu </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
                 <img src="image/Marcipan_med_Appelsin.png" alt="Hvid chokolader med appelsin">

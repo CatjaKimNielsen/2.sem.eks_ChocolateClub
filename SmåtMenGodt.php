@@ -46,7 +46,7 @@
                 <br>
                 <p class="tekst"> Fabelagtige chokolader til børn og barnlige sjæle. Vi producere chokolader lige efter dine ønsker og lige efter din smagsløg! </p>
                 <br>
-                <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Book tid </a>
+                <a class="btn btn-sm bg-Tobias shadow w-50 tekst" href="HeltUdenTwist.php"> Book tid </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
                 <img src="image/Nøddekugle.png" alt="Chokoladekugle med blandet nødder">
@@ -77,7 +77,7 @@
                 <br>
                 <p class="tekst"> Løber din mund også allerede i vand efter de mange lækre chokolader? Så chop dem allerede nu og få dem leveret direkte til din hoveddøren. </p>
                 <br>
-                <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Bestil nu </a>
+                <a class="btn btn-sm bg-Tobias shadow w-50 tekst" href="HeltUdenTwist.php"> Bestil nu </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
                 <img src="image/Mælkechokolade.png" alt="Chokoladefrø af mælkechokolade">
