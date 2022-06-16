@@ -14,8 +14,8 @@
 
     <meta property="og:title" content="Chocolate Club | Click & Collect">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://catjakimnielsen.dk/Eksamner/2.semester/Click&Collect.php">
-    <meta property="og:image" content="https://catjakimnielsen.dk/Eksamner/2.semester/image/Produkt_%C3%86ske_6stk.png">
+    <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/Click&Collect.php">
+    <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/Produkt_%C3%86ske_6stk.png">
     <meta property="og:description" content="Chocolate Club byder på en shop med lækre og fristende chokolade. Det kan bruges til selvforkælelse, begivenheder, til dessert eller lige hvad ønsker.">
     <meta property="og:locale" content="da.DK">
 
