@@ -14,8 +14,8 @@
 
     <meta property="og:title" content="Chocolate Club | Småt men godt">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="...">
-    <meta property="og:image" content="...">
+    <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/SmåtMenGodt.php">
+    <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/M%C3%A6lkechokolade.png">
     <meta property="og:description" content="Småt men godt er chokolade til børn og barnlige sjæle. Der kan laves personlige chokolade af både mørk-, lys-, hvid- og mælkechokolade.">
     <meta property="og:locale" content="da.DK">
 
@@ -77,7 +77,7 @@
                 <br>
                 <p class="tekst"> Løber din mund også allerede i vand efter de mange lækre chokolader? Så chop dem allerede nu og få dem leveret direkte til din hoveddøren. </p>
                 <br>
-                <a class="btn btn-sm bg-Tobias shadow w-50 tekst" href="HeltUdenTwist.php"> Bestil nu </a>
+                <a class="btn btn-sm bg-header_footer shadow w-50 tekst" href="HeltUdenTwist.php"> Bestil nu </a>
             </div>
             <div class="col-6 col-sm-4 col-xl-3 mt-3 mb-2">
                 <img src="image/Mælkechokolade.png" alt="Chokoladefrø af mælkechokolade">

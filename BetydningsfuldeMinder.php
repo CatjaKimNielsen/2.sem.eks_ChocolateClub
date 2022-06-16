@@ -14,8 +14,8 @@
 
     <meta property="og:title" content="Chocolate Club | Betydningsfulde">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="...">
-    <meta property="og:image" content="...">
+    <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/BetydningsfuldeMinder.php">
+    <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/Chokolade_med_Kokos.png">
     <meta property="og:description" content="Chokolade kan være med til at skabe rigtig gode minder. Vi kan lave chokolader til alle begivenheder, arrangementer, til fest, fødselsdag og bryllup.">
     <meta property="og:locale" content="da.DK">
 

@@ -14,8 +14,8 @@
 
     <meta property="og:title" content="Chocolate Club | Helt uden twist">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="...">
-    <meta property="og:image" content="...">
+    <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/HeltUdenTwist.php">
+    <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/M%C3%A6lkechokolade_med_mandel.png">
     <meta property="og:description" content="Helt uden twist er til dig som elsker chokolade, men alligevel måske er lidt kræsen - Vi kalder det eksklusivt kvalitetschokolade.">
     <meta property="og:locale" content="da.DK">
 
