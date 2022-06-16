@@ -14,8 +14,8 @@
 
     <meta property="og:title" content="Chocolate Club | Click & Collect">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="...">
-    <meta property="og:image" content="...">
+    <meta property="og:url" content="https://catjakimnielsen.dk/Eksamner/2.semester/Click&Collect.php">
+    <meta property="og:image" content="https://catjakimnielsen.dk/Eksamner/2.semester/image/Produkt_%C3%86ske_6stk.png">
     <meta property="og:description" content="Chocolate Club byder på en shop med lækre og fristende chokolade. Det kan bruges til selvforkælelse, begivenheder, til dessert eller lige hvad ønsker.">
     <meta property="og:locale" content="da.DK">
 
@@ -36,23 +36,23 @@
     <?php include "includes/header.php"; ?>
 
 
-    <div class="container text-center mt-5 mb-5 ps-5 pe-5">
-        <h1 class="overskrift"> Fristende og lækker chokolade til selvforkælelse, dessert og meget mere. </h1>
+    <section class="container text-center mt-5 mb-5 ps-5 pe-5">
+        <h1 class="overskrift"> FRISTENDE OG LÆKKER CHOKOLADE TIL SELVFORKÆLELSE, DESSERT OG MEGET MERE. </h1>
         <br>
         <p class="tekst"> Hos Chocolate Club finder du en lækker blanding af meget fristende chokolader. Vi laver chokolade til alle
             aldersgrupper, til alle begivenheder og arrangementer, med rigtig mange forskellige smage og lige efter din smagsløg.
             Dyk ned i de mange fristelser!  </p>
-    </div>
+    </section>
 
 
-    <div class="container">
+    <section class="container">
         <div class="row">
             <div class="col-6 col-md-4 col-xl-3 mb-5 justify-content-center">
                 <img src="image/Produkt_Æske_6stk.png" alt="Fyld selv æske med 6 chokolader">
                 <h2 class="overskrift text-center"> Fyld selv æske </h2>
                 <p class="tekst text-center"> Vælg selv 6 chokolader </p>
                 <br>
-                <p class="pris text-center "> 125,00 kr. </p>
+                <p class="pris text-center "> 59,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -60,7 +60,7 @@
                 <h2 class="overskrift text-center"> Fyld selv æske </h2>
                 <p class="tekst text-center"> Vælg selv 5 chokolader </p>
                 <br>
-                <p class="pris text-center "> 100 kr. </p>
+                <p class="pris text-center "> 49,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -68,7 +68,7 @@
                 <h2 class="overskrift text-center"> Mørk chokolade </h2>
                 <p class="tekst text-center"> med fyld af ren marcipan </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -76,7 +76,7 @@
                 <h2 class="overskrift text-center"> Lys chokolade </h2>
                 <p class="tekst text-center"> med fyld af kokos </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -84,7 +84,7 @@
                 <h2 class="overskrift text-center"> Lys chokolade </h2>
                 <p class="tekst text-center"> med en hel mandel </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -92,7 +92,7 @@
                 <h2 class="overskrift text-center"> Mørk chokolade </h2>
                 <p class="tekst text-center"> helt ren kvalitetschokolade </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -100,7 +100,7 @@
                 <h2 class="overskrift text-center"> Lys chokolade </h2>
                 <p class="tekst text-center"> med blandet hakkede nødder </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -108,7 +108,7 @@
                 <h2 class="overskrift text-center"> Hvid chokolade </h2>
                 <p class="tekst text-center"> med marcipan og appelsin </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -116,7 +116,7 @@
                 <h2 class="overskrift text-center"> Mørk chokolade </h2>
                 <p class="tekst text-center"> med flydende karamel </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -124,7 +124,7 @@
                 <h2 class="overskrift text-center"> Lys chokolade </h2>
                 <p class="tekst text-center"> med nougat og hel hasselnød </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -132,7 +132,7 @@
                 <h2 class="overskrift text-center"> Mørk chokoladeskildpadde </h2>
                 <p class="tekst text-center"> med flydende mintfyld </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
             <div class="col-6 col-md-4 col-xl-3 mb-5">
@@ -140,11 +140,11 @@
                 <h2 class="overskrift text-center"> Lys chokoladefrø </h2>
                 <p class="tekst text-center"> med et rent chokoladeindre </p>
                 <br>
-                <p class="pris text-center "> 25,00 kr. </p>
+                <p class="pris text-center "> 11,00 kr. </p>
                 <a class="btn btn-sm bg-header_footer shadow w-100 tekst justify-content-center" href="..."> Læs mere </a>
             </div>
         </div>
-    </div>
+    </section>
 
 
     <?php include "includes/footer.php"; ?>
