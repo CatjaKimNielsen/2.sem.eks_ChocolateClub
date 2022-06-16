@@ -7,6 +7,10 @@
 //Tilføj eller ret farver i Bootstrap. Herunder er primary blot sat til den normale primary
 $custom-colors: (
   "header_footer": #E5D6CF,
+  "brun": #7A4F40,
+  "Tobias": #27693F,
+  "Amalie": #4363AA,
+  "Frederik": #CDB063,
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
