@@ -14,8 +14,8 @@
 
     <meta property="og:title" content="Chocolate Club | Om os">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="...">
-    <meta property="og:image" content="...">
+    <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/OmOs.php">
+    <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/ChocolateClub_Slider_3chokolader.png">
     <meta property="og:description" content="Vores fælles kærlighed er chokolade - derfor er vi alle 3 uddannet chocolatiers. Vi er Tobias Trads med speciale i børn og barnlige sjæle, Amalie Mikkelsen med speciale i det eksklusive og kvalitet til kræsne og Frederik Wolmar med speciale i chokolade til alle begivenheder.">
     <meta property="og:locale" content="da.DK">
 
@@ -47,7 +47,7 @@
         <div class="row mb-5">
             <div class="col-12 col-sm-6 col-xl-4">
                 <br><br>
-                <h2 class="overskrift"> TOBIAS TRADS </h2>
+                <h2 class="overskrift"> Tobias Trads </h2>
                 <br>
                 <img src="image/TobiasTrads.jpg" alt="Chocolatier Tobias">
                 <p class="p-3 tekst"> Tobias laver alverdens chokolader til børn og barnlige sjæle. Så hvis du skal forkæle dine børn med noget ekstra god chokolade eller kender en som har en liiidt barnlig sjæl, så er Tobias' chokolader de helt rigtige. </p>
@@ -57,14 +57,14 @@
                         <div class="card card-body">
                             <img src="image/Mælkechokolade.png" alt="Frø af mælkechokolade">
                             <br>
-                            <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="SmåtMenGodt.php"> Se mere </a>
+                            <a class="btn btn-sm bg-Tobias shadow w-100 tekst" href="SmåtMenGodt.php"> Se mere </a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-sm-6 col-xl-4">
                 <br><br>
-                <h2 class="overskrift"> AMALIE MIKKELSEN </h2>
+                <h2 class="overskrift"> Amalie Mikkelsen </h2>
                 <br>
                 <img src="image/Amalie.jpg" alt="Chocolatier Amalie">
                 <p class="p-3 tekst"> Amalie har øje for eksklusivitet og den bedste kvalitet - derfor producere hun kun den bedste eksklusive kvalitetschokolade. Amalie har også for øje, at der også findes kræsne chokoladeelskere og det kommer til udtryk i hendes chokoladearbejde. </p>
@@ -74,14 +74,14 @@
                         <div class="card card-body">
                             <img src="image/MørkChokolade.png" alt="Ren mørk chokolade">
                             <br>
-                            <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="HeltUdenTwist.php"> Se mere </a>
+                            <a class="btn btn-sm bg-Amalie shadow w-100 tekst" href="HeltUdenTwist.php"> Se mere </a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-sm-6 col-xl-4">
                 <br><br>
-                <h2 class="overskrift"> FREDERIK WOLMAR </h2>
+                <h2 class="overskrift"> Frederik Wolmar </h2>
                 <br>
                 <img src="image/Frederik.jpg" alt="Chocolatier Frederik">
                 <p class="p-3 tekst"> Frederik har speciale i, at producere lækre chokolader til alle typer begivenheder. Det kan fx være dit bryllup, en 50´ års fødselsdag, sølvbyllup, en børnefødselsdag eller noget helt femte. </p>
@@ -91,12 +91,25 @@
                         <div class="card card-body">
                             <img src="image/Chokolade_med_Kokos.png" alt="Lys chokolade med kokos">
                             <br>
-                            <a class="btn btn-sm bg-header_footer shadow w-100 tekst" href="BetydningsfuldeMinder.php"> Se mere </a>
+                            <a class="btn btn-sm bg-Frederik shadow w-100 tekst" href="BetydningsfuldeMinder.php"> Se mere </a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </section>
+
+    <section class="container mt-5">
+        <h1 class="overskrift"> Samarbejdspartnere og kvalitet </h1>
+        <br>
+        <p class="tekst"> Når vi producere chokolade er det vigtigste for os, at råvarerne er i den bedste kvalitet og at de kommer
+            fra lande og virksomheder, hvis medarbejdere har gode arbejdsforhold. <br><br> Vi benytter rå kakaobønner af arten Theobroma -
+            Kakaotræet Træets naturlige voksested er i Amazonas. Træet er meget krævende med hensyn til temperatur og nedbør. Det skal vokse
+            ved 24-28 °C. Temperaturen må aldrig komme under 16 °C. Grænsen for vækst ligger på 500-1000 m over havets overflade. Træets
+            blomster gror i klynger direkte på stammen eller på ældre grene. De er små, 1-2 cm i diameter. Frugten, kaldet en kakaobælg,
+            er ægformet, 15-30 cm lang og 8-10 cm bred og modner fra gul til orange. Den vejer omkring 500 gram, når den er moden. <br><br>
+            Bønnerne som plukker og ordner kakao-frugten arbejder på chokoladefarmen Valcilene dos Santos. Vi har denne farm som samarbejdspartner
+            da arbejdsforholdene er gode og alle medarbejder får løn. <br>Læs mere om deres arbejde på www.valcilenedossantos.com</p>
     </section>
 
 
