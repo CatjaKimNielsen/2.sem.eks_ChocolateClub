@@ -16,7 +16,7 @@
     <meta property="og:title" content="Chocolate Club">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/index.php">
-    <meta property="og:image" content="http://www.catjakimnielsen.dk/Eksamener/2.semester/image/ChocolateClub_Slider_3chokolader.png">
+    <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamener/2.semester/image/ChocolateClub_Slider_3chokolader.png">
     <meta property="og:description" content="Hos Chocolate Club laver vi alt i konfekt, ren chokolade og fyldte chokolader.
     De kan købes i vores butik, i vores click & collect eller bestilles efter egne ønsker.">
     <meta property="og:locale" content="da.DK">
@@ -27,10 +27,9 @@
     <style> body{background-color: rgba(248,242,239,0.89)} </style>
     <style> a:link{color: black; text-decoration: none;}</style>
 
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@0;1&family=Pathway+Gothic+One&display=swap" rel="stylesheet">
+
 </head>
-
-
-<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@0;1&family=Pathway+Gothic+One&display=swap" rel="stylesheet">
 
 
 <body>

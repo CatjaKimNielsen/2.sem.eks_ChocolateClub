@@ -18,10 +18,9 @@
     <style> body{background-color: rgba(248,242,239,0.89)} </style>
     <style> a:link{color: black; text-decoration: none;} a:hover{text-decoration: underline} </style>
 
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@0;1&family=Pathway+Gothic+One&display=swap" rel="stylesheet">
+
 </head>
-
-
-<link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@0;1&family=Pathway+Gothic+One&display=swap" rel="stylesheet">
 
 
 <body>
