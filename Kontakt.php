@@ -6,18 +6,18 @@
 
     <meta charset="utf-8">
 
-    <title> Chocolate Club </title>
-    <meta name="description" content="...">
+    <title> Kontakt </title>
+    <meta name="description" content="Der er mange muligheder for at komme i kontakt med Chocolate Club. Vi har både en kontaktformular, et telefonnummer, en a-mail og du er også mere end velkommen til at besøge os på vores adresse.">
     <meta name="robots" content="All">
-    <meta name="author" content="Udgiver">
+    <meta name="author" content="Catja Kim Nielsen & Susane Buch">
     <meta name="copyright" content="Information om copyright">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta property="og:title" content="Chocolate Club">
+    <meta property="og:title" content="Chocolate Club | Kontakt">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="...">
-    <meta property="og:image" content="...">
-    <meta property="og:description" content="...">
+    <meta property="og:url" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/Kontakt.php">
+    <meta property="og:image" content="https://www.catjakimnielsen.dk/Eksamner/2.semester/image/ChocolateClub_Slider_5chokolader.png">
+    <meta property="og:description" content="Der er mange muligheder for at komme i kontakt med Chocolate Club. Vi har både en kontaktformular, et telefonnummer, en a-mail og du er også mere end velkommen til at besøge os på vores adresse.">
     <meta property="og:locale" content="da.DK">
 
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -36,39 +36,53 @@
 
     <?php include "includes/header.php"; ?>
 
-    <div class="container mt-5">
+    <section class="container mt-5">
         <div class="row">
-            <div class="col-12 col-sm-6 col-xl-6">
+            <div class="col-12 col-sm-6 col-xl-8">
                 <div class="text-center p-4">
                     <h1 class="overskrift">KONTANTFORMULAR</h1>
                 </div>
-
                 <div method="get" action="index.html">
-                    <label for="Navn" class="name">Fulde navn:</label>
+                    <label for="Navn" class="name">Fulde navn</label>
                     <br>
-                    <input id="Navn" class="formularbox w-50" name="Navn" type="text" placeholder="" value="">
+                    <input id="Navn" class="formularboks w-100" name="Navn" type="text" placeholder="" value="">
                     <br><br>
-                    <label for="email" class="tlf">Telefon nr:</label>
+                    <label for="Nummer" class="tlf">Telefon nr</label>
                     <br>
-                    <input id="Navn" class="formularbox w-50" name="tlf" type="text" placeholder="" value="">
+                    <input id="Nummer" class="formularboks w-100" name="Nummer" type="text" placeholder="" value="">
                     <br><br>
-                    <label for="Navn" class="email">E-mail:</label>
+                    <label for="Email" class="email">E-mail</label>
                     <br>
-                    <input name="email" class="formularbox w-50" type="email" id="email" placeholder="" value="">
+                    <input name="Email" class="formularboks w-100" type="email" id="Email" placeholder="" value="">
                     <br><br>
-                    <label for="Navn" class="subject">Emne:</label>
+                    <label for="Emne" class="subject">Emne</label>
                     <br>
-                    <input id="Navn" class="formularbox w-50" name="Navn" type="text" placeholder="" value="">
+                    <input id="Emne" class="formularboks w-100" name="Emne" type="text" placeholder="" value="">
                     <br><br>
-                    <label for="besked" class="besked">Din besked</label>
+                    <label for="Besked" class="besked">Din besked</label>
                     <br>
-                    <textarea id="besked" class="formularbox w-100" name="besked" placeholder=""></textarea>
+                    <textarea id="Besked" class="formularboks w-100" name="Besked" placeholder=""></textarea>
                     <br><br>
-                    <input type="submit" class="sendknap" value="Send besked">
+                    <input type="submit" class="btn btn-sm bg-header_footer shadow w-50 tekst" value="Send besked">
                 </div>
             </div>
+            <div class="col-12 col-sm-6 col-xl-4">
+                <div class="text-center p-4">
+                    <h2 class="overskrift">ÅBNINGSTIDER</h2>
+                </div>
+                <p class="tekst text-center"> Vi tager meget gerne imod dig i vores butik på Silkegade 7 ved Strøget, hvis du helst vil tage en snak. </p>
+                <br>
+                <p class="tekst text-center"> Mandag: 10.00 - 16.00 <br> Tirsdag: lukket <br> Onsdag: lukket <br> Torsdag lukket <br> Fredag: 10.00 - 16.00 <br> Lørdag: 10.00 - 18.00 <br> Søndag: lukket </p>
+                <br>
+                <div class="text-center p-4">
+                    <h2 class="overskrift">TELEFONTIDER</h2>
+                </div>
+                <p class="tekst text-center text-decoration-underline"> +45 1717 7171</p>
+                <br>
+                <p class="tekst text-center"> Telefonen har åbent i butikkens åbningstider. </p>
+            </div>
         </div>
-    </div>
+    </section>
 
 
 
