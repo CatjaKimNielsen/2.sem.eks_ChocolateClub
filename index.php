@@ -47,13 +47,13 @@
 
         <div class="carousel-inner">
             <div class="carousel-item active">
+                <a href="event.php"> <img src="image/ChocolateClub_Slider_5.chokolader.png" class="d-block w-100" alt="5 chokolader i en skal - Åbningsevent" > </a>
+            </div>
+            <div class="carousel-item">
                 <img src="image/ChocolateClub_Slider_3chokolader.png" class="d-block w-100" alt="5 chokolader i æske">
             </div>
             <div class="carousel-item">
                 <img src="image/ChocolateClub_Slider_2chokolader.png" class="d-block w-100" alt="Fristende chokolader med marcipan">
-            </div>
-            <div class="carousel-item carousel-dark">
-                <img src="image/ChocolateClub_Slider_5chokolader.png" class="d-block w-100" alt="5 chokolader i en skal">
             </div>
         </div>
 
